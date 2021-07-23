@@ -1,0 +1,7 @@
+D:/GitHub_Projects/XMOF2D-master/build/CMakeFiles/xmof2D.dir
+D:/GitHub_Projects/XMOF2D-master/build/CMakeFiles/INSTALL.dir
+D:/GitHub_Projects/XMOF2D-master/build/CMakeFiles/ALL_BUILD.dir
+D:/GitHub_Projects/XMOF2D-master/build/CMakeFiles/ZERO_CHECK.dir
+D:/GitHub_Projects/XMOF2D-master/build/examples/CMakeFiles/test_line_interface.dir
+D:/GitHub_Projects/XMOF2D-master/build/examples/CMakeFiles/single_cell.dir
+D:/GitHub_Projects/XMOF2D-master/build/examples/CMakeFiles/INSTALL.dir
